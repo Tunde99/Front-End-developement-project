@@ -8,7 +8,7 @@ Built by Group 1 of the TSAcademy Hajimeh cohort as a Frontend Capstone project.
 🔗 Live site: https://group-1-frontend-capstone-5jho.vercel.app/ 📦 Repository: https://github.com/festusola/Group-1-Frontend-Capstone
 
 my own repository:https://github.com/Tunde99/Front-End-developement-project
-Team & Contribution
+
 
 
 
@@ -21,7 +21,7 @@ Otitonioluwa	Assistant Leader---->  |        Wrote the final CSS of the hero sec
                                      |                                                                                                                                |                                                                                                                                |           
 Favour Ben	Contributor	--->         |         Built the header and the search bar, worked on part of the footer, 
  GitHub Account @Fbenstudio          |         and implemented the error/loading message and search functionality.
-                                     |                                                                                                                                |                                                                                                                                |                                                                                                                                |                                                         |                 
+                                     |                                                                                                                                |                                                                                                                                |                                                                                                                                |                                                                         
                                      |
                                      |       
 Rebecca	Contributor---> 	           |                 Built the table section and its functionality.
@@ -31,7 +31,7 @@ Chibuzo	Contributor--->              |                  Built the table section 
 GitHub Account @chibuzo900-glitch    |
                                      |
 Emmanuel	Contributor--->            |
-GitHub Account @Kleanton1|           |                   Developed part of the footer .
+GitHub Account @Kleanton1            |                   Developed part of the footer .
                                      |
                                      |
 Lydia	Contributor--->                |  
